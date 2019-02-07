@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-mongo-starter",
+  "version": "1.0.0",
+  "description": "starter for node.js using mongo db",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ancutamezi/nodejs-mongo-starter.git"
+  },
+  "author": "Ancuta Mezinca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ancutamezi/nodejs-mongo-starter/issues"
+  },
+  "homepage": "https://github.com/ancutamezi/nodejs-mongo-starter#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
