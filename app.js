@@ -1,5 +1,5 @@
 const app = require('express')();
-const bodyParser = require('body-parser'); //package used to handle JSON requests
+const bodyParser = require('body-parser'); //package used to handle JSON requests in a middleware
 const port = process.env.port || 5000;
 
 //body-parser middleware
